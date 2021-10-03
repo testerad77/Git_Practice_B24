@@ -11,6 +11,9 @@ public class Third {
 
         // updating third file
         //more lines
+
+        System.out.println("Our third updating to this file");
+        //one more line
     }
 
 }
