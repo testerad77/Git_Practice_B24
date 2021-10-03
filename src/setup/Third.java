@@ -8,6 +8,9 @@ public class Third {
         // adding more lines
 
         System.out.println("I like Java");
+
+        // updating third file
+        //more lines
     }
 
 }
